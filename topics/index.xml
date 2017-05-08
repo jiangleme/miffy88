@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on 米菲</title>
-    <link>/topics/</link>
+    <link>http://www.miffy88.com/topics/</link>
     <description>Recent content in Topics on 米菲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>yourname@example.com (米菲联合创始人)</managingEditor>
     <webMaster>yourname@example.com (米菲联合创始人)</webMaster>
     <copyright>(c) 2015 米菲Miffy官方合作招商. 加微信 18057157152 咨询</copyright>
-    <lastBuildDate>Sun, 07 May 2017 19:40:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 20:07:54 +0800</lastBuildDate>
     
-	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.miffy88.com/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Topic 1</title>
-      <link>/topics/topic-1/</link>
-      <pubDate>Sun, 07 May 2017 19:40:50 +0800</pubDate>
+      <link>http://www.miffy88.com/topics/topic-1/</link>
+      <pubDate>Sun, 07 May 2017 20:07:54 +0800</pubDate>
       <author>yourname@example.com (米菲联合创始人)</author>
-      <guid>/topics/topic-1/</guid>
+      <guid>http://www.miffy88.com/topics/topic-1/</guid>
       <description></description>
     </item>
     
