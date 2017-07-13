@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.miffy88.com/canping/</loc>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.miffy88.com/%E7%B1%B3%E8%8F%B2%E7%BA%B8%E5%B0%BF%E8%A3%A4-%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2017-05-24T20:39:59+08:00</lastmod>
   </url>
@@ -94,7 +99,7 @@
   
   <url>
     <loc>http://www.miffy88.com/tags/one/</loc>
-    <lastmod>2017-05-24T20:39:59+08:00</lastmod>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,19 +117,19 @@
   
   <url>
     <loc>http://www.miffy88.com/topics/topic-1/</loc>
-    <lastmod>2017-05-24T20:39:59+08:00</lastmod>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.miffy88.com/topics/</loc>
-    <lastmod>2017-05-24T20:39:59+08:00</lastmod>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.miffy88.com/tags/two/</loc>
-    <lastmod>2017-05-24T20:39:59+08:00</lastmod>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,7 +165,7 @@
   
   <url>
     <loc>http://www.miffy88.com/</loc>
-    <lastmod>2017-05-24T20:39:59+08:00</lastmod>
+    <lastmod>2017-07-13T10:42:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
