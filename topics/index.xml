@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on 米菲招商</title>
-    <link>http://www.miffy88.com/topics/</link>
+    <link>https://www.miffy88.com/topics/</link>
     <description>Recent content in Topics on 米菲招商</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>(c) 2017 米菲Miffy纸尿裤合作招商代理. 加微信 limpid88 电话 18057157152 咨询</copyright>
     <lastBuildDate>Tue, 01 Aug 2017 21:32:53 +0800</lastBuildDate>
     
-	<atom:link href="http://www.miffy88.com/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.miffy88.com/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Topic 1</title>
-      <link>http://www.miffy88.com/topics/topic-1/</link>
+      <link>https://www.miffy88.com/topics/topic-1/</link>
       <pubDate>Tue, 01 Aug 2017 21:32:53 +0800</pubDate>
       
-      <guid>http://www.miffy88.com/topics/topic-1/</guid>
+      <guid>https://www.miffy88.com/topics/topic-1/</guid>
       <description></description>
     </item>
     
