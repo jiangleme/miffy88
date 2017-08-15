@@ -1,0 +1,16 @@
+#fixed {
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    bottom: 0;
+    padding-top: 5px;
+    position: fixed;
+
+    width: 100%;
+    margin: 0 auto;
+    font-size:20px;
+}
+#fixed img {
+    float: left;
+    margin-top: -5px;
+    width: 70px;
+}
